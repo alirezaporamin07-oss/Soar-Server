@@ -76,7 +76,8 @@ Operation inside Iran has not yet been field-verified.
 
 See [validation](AUDIT-REPORT.md), [tests](TESTING.md), and
 [release downloads](https://github.com/WhiteDNS/Soar-Server/releases).
-The download checksum detects corruption; obtain the script and release from
+The download checksum detects corruption; 
+obtain the script and release from
 this official repository. You can inspect `setup.sh` before running it.
 
 ## Build from source
